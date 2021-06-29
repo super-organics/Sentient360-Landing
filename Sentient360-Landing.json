@@ -1,72 +1,146 @@
-[{
-  "Feature": "Iot Hubs",
-  "DescriptionImage": "Pathhere",
-  "Points": [
-    {
-      "Point": "Brussels",
-      "latitude": 50.8371,
-      "longitude": 4.3676,
-      "icon": "icon path here",
-      "color": "blue",
-      "Hyperlink":"hyperlink",
-      "Popup": [
-        {
-          "Image": "Path here",
-          "Text": "Path here"
-        },
-        {
-          "Image": "Path here",
-          "Text": "Path here"
-        },
-        {
-          "Image": "Path here",
-          "Text": "Path here"
-        }
-      ]
-    },
-    {
-      "Point": "Copenhagen",
-      "latitude": 55.6763,
-      "longitude": 12.5681,
-      "icon": "icon path here",
-      "color": "blue",
-      "Hyperlink":"hyperlink",
-      "Popup": [
-        {
-          "Image": "Path here",
-          "Text": "Path here"
-        },
-        {
-          "Image": "Path here",
-          "Text": "Path here"
-        },
-        {
-          "Image": "Path here",
-          "Text": "Path here"
-        }
-      ]
-    },
-    {
-      "Point": "Paris",
-      "latitude": 48.8567,
-      "longitude": 2.3510,
-      "icon": "icon path here",
-      "color": "blue",
-      "Hyperlink":"hyperlink",
-      "Popup": [
-        {
-          "Image": "Path here",
-          "Text": "Path here"
-        },
-        {
-          "Image": "Path here",
-          "Text": "Path here"
-        },
-        {
-          "Image": "Path here",
-          "Text": "Path here"
-        }
-      ]
-    }
-  ]
-}]
+[
+  {
+    "Feature": "Iot Hubs",
+    "DescriptionImage": "Images/Slide1.png",
+    "Points": [
+      {
+        "Point": "Brussels",
+        "latitude": 50.8371,
+        "longitude": 4.3676,
+        "icon": "ICONS/IOTHub.png",
+        "color": "blue",
+        "Hyperlink": "hyperlink",
+        "Popup": [
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          }
+        ]
+      },
+      {
+        "Point": "Copenhagen",
+        "latitude": 55.6763,
+        "longitude": 12.5681,
+        "icon": "icon path here",
+        "color": "blue",
+        "Hyperlink": "hyperlink",
+        "Popup": [
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          }
+        ]
+      },
+      {
+        "Point": "Paris",
+        "latitude": 48.8567,
+        "longitude": 2.3510,
+        "icon": "icon path here",
+        "color": "blue",
+        "Hyperlink": "hyperlink",
+        "Popup": [
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Feature": "Functions",
+    "DescriptionImage": "Images/AzureFnApp.png",
+    "Points": [
+      {
+        "Point": "Brussels",
+        "latitude": 150.8371,
+        "longitude": 4.3676,
+        "icon": "ICONS/AzureFunction.png",
+        "color": "blue",
+        "Hyperlink": "hyperlink",
+        "Popup": [
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          }
+        ]
+      },
+      {
+        "Point": "Copenhagen",
+        "latitude": 23.6763,
+        "longitude": 12.5681,
+        "icon": "icon path here",
+        "color": "blue",
+        "Hyperlink": "hyperlink",
+        "Popup": [
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          }
+        ]
+      },
+      {
+        "Point": "ParisFunction",
+        "latitude": 48.8567,
+        "longitude": 22.3510,
+        "icon": "icon path here",
+        "color": "blue",
+        "Hyperlink": "hyperlink",
+        "Popup": [
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          },
+          {
+            "Image": "Path here",
+            "Text": "Path here"
+          }
+        ]
+      }
+    ]
+  }
+]
