@@ -34,12 +34,12 @@
         "Hyperlink": "hyperlink",
         "Popup": [
           {
-            "Image": "Path here",
-            "Text": "Path here"
+            "Image": "Images/Slide1.png",
+            "Text": "Slide1 description"
           },
           {
-            "Image": "Path here",
-            "Text": "Path here"
+            "Image": "ICONS/IOTHub.png",
+            "Text": "icon description"
           },
           {
             "Image": "Path here",
@@ -128,7 +128,7 @@
         "Hyperlink": "hyperlink",
         "Popup": [
           {
-            "Image": "Path here",
+            "Image": "Images/Slide1.png",
             "Text": "Path here"
           },
           {
