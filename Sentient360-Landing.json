@@ -42,8 +42,8 @@
             "Text": "icon description"
           },
           {
-            "Image": "Path here",
-            "Text": "Path here"
+            "Image": "ICONS/AzureFunction.png",
+            "Text": "Testing purpose"
           }
         ]
       },
