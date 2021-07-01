@@ -56,6 +56,7 @@
         "longitude": 2.3510,
         "icon": "icon path here",
         "color": "blue",
+        "size":"medium",
         "Hyperlink": "hyperlink",
         "Popup": [
           {
