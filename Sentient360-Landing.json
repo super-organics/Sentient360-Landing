@@ -7,9 +7,11 @@
         "Point": "Brussels",
         "latitude": 50.8371,
         "longitude": 4.3676,
+        "size":"small",
         "icon": "ICONS/IOTHub.png",
         "color": "blue",
-        "Hyperlink": "hyperlink",
+        "Actions": [{"Open IoTHub":"http://www.google.com/" },{"Open IoTHub":"http://www.google.co.uk"},{"Open Dashboard":"http://www.google.co.in"}
+        ],
         "Popup": [
           {
             "Image": "Path here",
@@ -31,7 +33,8 @@
         "longitude": 12.5681,
         "icon": "icon path here",
         "color": "blue",
-        "Hyperlink": "hyperlink",
+        "size":"small",
+        "Actions": [{"Open IoTHub":"http://www.google.com/" },{"Open IoTHub":"http://www.google.co.uk"},{"Open Dashboard":"http://www.google.co.in"}],
         "Popup": [
           {
             "Image": "Images/Slide1.png",
